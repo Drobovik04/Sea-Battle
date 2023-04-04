@@ -237,8 +237,10 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   tileMap: {fileID: 2044496408}
+  backTileMap: {fileID: 1506323988}
   shipTile: {fileID: 11400000, guid: b5df8f0623042e94a97b52a30d5267d5, type: 2}
   shipLength: 0
+  waterTile: {fileID: 11400000, guid: 12aee40f660f57547b95110491d3f671, type: 2}
 --- !u!4 &623092416
 Transform:
   m_ObjectHideFlags: 0
